@@ -1,53 +1,3 @@
-# **🥞 PancakeSwap Prediction v3.0 new Update 🥞**
-
-
-![PancakeSwap-Logo-Big](logo.jpeg)
-  <a href="https://github.com/SavannahCatToken/PancakeSwap-Prediction-Bot-Fullversion/releases">
-    <img alt="GitHub all releases" src="https://img.shields.io/github/followers/SavannahCatToken?style=social">
-  </a>
-  <a href="https://github.com/SavannahCatToken/PancakeSwap-Prediction-Bot-Fullversion">
-    <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/stars/SavannahCatToken/PancakeSwap-Prediction-Bot-Fullversion?style=social">
-  </a>
-   <a href="https://github.com/SavannahCatToken/PancakeSwap-Prediction-Bot-Fullversion">
-    <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/forks/SavannahCatToken/PancakeswapPredictionBot-Fullversion?style=social">
-  </a>
-  <a href="https://twitter.com/intent/follow?screen_name=SavannaCatToken">
-    <img src="https://img.shields.io/twitter/follow/SavannaCatToken?style=social" alt="Follow @SavannahCat" />
-  </a>
-
-
-This bot wins the majority of rounds on PancakeSwap based.
-This bot survived the beta and is now in the full version. Feel Free to contact us: support@assaempire.eu
-
-## NEWS *Update 4.0*
-
-our update is in planning. there's a lot coming your way.
-We know some bugs (Windows use)
-
-
-
-## *Our Team*
-
-![Our Team](https://i.ibb.co/8jR3Fcv/logo.png)
-
-- AssaEmpire (Owner/Programmer)
-- SavannahCat (Github, Reddit, Youtube and Twitter Support)
-- XBronx (Programmer)
-- K4L (Youtube Supporter)
-
-Thank u all <3
-
-
-
-## **Our YT Videos** 
-
-K4L: https://www.youtube.com/watch?v=7glaF_gIDj8&t=42s
-
-
-SavannahCat: https://www.youtube.com/watch?v=oI8YoWaqALE&t=3s
-
-              https://www.youtube.com/watch?v=nXHcnsj1I3A
-
 ## 💡 Installation.
 
 Download & Install Node here :
@@ -84,17 +34,6 @@ RPC="https://bsc-dataseed.binance.org/"
 
 Note: This is not production ready script so please make sure to change ``to:`` field in ``src/index.ts`` and ``src/candle-genie.ts``.
 
-## ✨ Screenshots. 
-
-To check history of the rounds you played, head over to: https://pancakeswap.finance/prediction
-
-![History](https://user-images.githubusercontent.com/37302442/142716425-eb32f875-a767-4f22-abf1-6d97071dbd6d.png)
-
-Running this bot for a day had made me $55 with minimum bets. Please note I was actively monitoring the market as the bot was running.
-
-![History_2](https://user-images.githubusercontent.com/37302442/142724431-48a7c301-ee59-4485-9733-3ee5a0303c00.PNG)
-
-#### 📢 Advice:
 - Run the bot with your wallet at a ratio of 10x the amount you choose to bet
 - Adjust the bot accordingly to bet with or against the majority.
 - When the chart swings, use the "--with" strategy.
@@ -129,20 +68,3 @@ MIT License
 
 BOT is free-to-use, but you are welcome to appreciate my work ☺️
 Thank's to Empaticgame! spend: 0,8 BNB ❤️
-
-
-
-
-
-## 📧 If you need some help contact me
-
-***support@assaempire.eu***
-
-
-
-## Reddit Hater's 
- 
-![Hater's](https://cdn.arstechnica.net/wp-content/uploads/2019/03/reddit-games-silence.png)
-  
-  
-**We know about a few Reddit haters. We cannot rule out whether these are bots or unsuspecting would-be coders. The AssaEmpire Team will contact Github with the problems so that this no longer occurs. Thank you for reading and have fun :)**
